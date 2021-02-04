@@ -9,7 +9,7 @@ Continuous Integration improves productivity and competitiveness by increasing t
 
 * Source: DZone: “What Is Continuous Integration?” (https://dzone.com/articles/what-is-continuous-integration)
 
-* Source:Katalon “Top 10 Benefits of Continuous Integration & Continuous Delivery” (https://www.katalon.com/resources-center/blog/benefits-continuous-integration-delivery/)
+* Source: Katalon “Top 10 Benefits of Continuous Integration & Continuous Delivery” (https://www.katalon.com/resources-center/blog/benefits-continuous-integration-delivery/)
 
 * Source: Apiumhub "TOP BENEFITS OF CONTINUOUS INTEGRATION”(https://apiumhub.com/tech-blog-barcelona/benefits-of-continuous-integration/) 
 
